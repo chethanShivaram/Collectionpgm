@@ -28,5 +28,4 @@ public class Student implements Comparable<Student>
 	
 		  return this.name.compareTo(st.name);
   }
- 
 }
