@@ -1,4 +1,4 @@
-package demo;
+package pgmoncollection;
 
 public class Student implements Comparable<Student>
 {

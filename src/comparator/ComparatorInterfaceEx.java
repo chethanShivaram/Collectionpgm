@@ -32,10 +32,5 @@ public class ComparatorInterfaceEx {
 		{
 			System.out.println(st1.name + " " + st1.roll_no+ " " + st1.age);
 		}
-		System.out.println();
-		
-		
-		
 	}
-
 }

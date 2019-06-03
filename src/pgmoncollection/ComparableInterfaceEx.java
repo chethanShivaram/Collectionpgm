@@ -1,4 +1,4 @@
-package demo;
+package pgmoncollection;
 import java.util.*;
 public class ComparableInterfaceEx
 {
